@@ -1,3 +1,10 @@
+# Spring IoC & POC
+
+
+## Architecture du projet 
+<img width="546" height="872" alt="Screenshot 2026-03-10 181930" src="https://github.com/user-attachments/assets/6d27ea89-0668-475a-b3fd-d733c0a60223" />
+
+
 ## dev
 
 <img width="1908" height="1012" alt="dev" src="https://github.com/user-attachments/assets/758d0f0b-1531-4b61-9b65-c438083d8d4f" />
